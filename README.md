@@ -5,7 +5,11 @@ Das Ziel der InNa App "CO2-Mensa" ist die messtechnische Erfassung der CO2 Emiss
 ## Frei verfügbarer Datensatz
 Der Datensatz beinhaltet die Rohdaten der Umfrage als CSV-Dateien sowie eine Zusammenfassung der numerischen Ergebnisse und wurde auf [WueData](https://wuedata.uni-wuerzburg.de/) (das institutionelle Forschungsdatenrepositorium der Julius-Maximilians-Universität Würzburg) veröffentlicht unter:
 
-> Hoßfeld, Tobias, Adina Waidhas, Eva Rühl, Denis Messig. *Umfrage Der InNa App ‘CO2-Mensa.’* University of Würzburg, 2024. DOI: [10.58160/127](https://dx.doi.org/10.58160/127).<br>https://doi.org/10.58160/127
+> Hoßfeld, Tobias, Adina Waidhas, Eva Rühl, Denis Messig. *Umfrage Der InNa App ‘CO2-Mensa.’* University of Würzburg, Februar 2024. <br>DOI: [10.58160/127](https://dx.doi.org/10.58160/127).
+
+Download der Rohdaten unter https://doi.org/10.58160/127
+
 
 ## Skript zur Auswertung der Rohdaten
-Das Skript zur Auswertung der numerischen Daten der Umfrage wird hier zur Verfügung gestellt. 
+* Das [Skript zur Auswertung](https://github.com/hossfeld/co2-mensa/blob/main/Auswertung%20zur%20Umfrage%20CO2-Mensa.ipynb) der numerischen Daten der Umfrage wird in Github zur Verfügung gestellt. 
+* Weiterhin gibt es eine [AI generierte Zusammenfassung](https://github.com/hossfeld/co2-mensa/blob/main/CO2mensa_textSummaries_20240115.pdf) der Texteingaben. 
